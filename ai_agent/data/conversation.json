@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "연차는 며칠이야?"
+  },
+  {
+    "role": "assistant",
+    "content": "입사 1년 이상이면 연 15일이다."
+  }
+]
