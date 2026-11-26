@@ -1,0 +1,7 @@
+2026-11-26 12:14:47 [INFO] ai_agent - 질문 수신: 15
+2026-11-26 12:14:47 [INFO] ai_agent - 질문 수신: 열다섯
+2026-11-26 12:14:47 [ERROR] ai_agent - 숫자 변환 실패
+Traceback (most recent call last):
+  File "C:\Users\user\github\fzaca-training\ai_agent\step01\logging_file.py", line 18, in handle
+    days = int(question)
+ValueError: invalid literal for int() with base 10: '열다섯'

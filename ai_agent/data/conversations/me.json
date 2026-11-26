@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "sdd"
+  },
+  {
+    "role": "assistant",
+    "content": "'sdd'라고 하셨네요."
+  },
+  {
+    "role": "user",
+    "content": "하하하"
+  },
+  {
+    "role": "assistant",
+    "content": "'하하하'라고 하셨네요."
+  },
+  {
+    "role": "user",
+    "content": "종료하자"
+  },
+  {
+    "role": "assistant",
+    "content": "'종료하자'라고 하셨네요."
+  },
+  {
+    "role": "user",
+    "content": "ㅇㅇㄴ"
+  },
+  {
+    "role": "assistant",
+    "content": "'ㅇㅇㄴ'라고 하셨네요."
+  },
+  {
+    "role": "user",
+    "content": "안녕"
+  },
+  {
+    "role": "assistant",
+    "content": "'안녕'라고 하셨네요."
+  },
+  {
+    "role": "user",
+    "content": "종수야"
+  },
+  {
+    "role": "assistant",
+    "content": "'종수야'라고 하셨네요."
+  },
+  {
+    "role": "user",
+    "content": "ㅈ"
+  },
+  {
+    "role": "assistant",
+    "content": "'ㅈ'라고 하셨네요."
+  }
+]
